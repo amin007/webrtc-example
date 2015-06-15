@@ -1,5 +1,7 @@
 # Prototype WebRTC
 
+[![Join the chat at https://gitter.im/amin007/webrtc-example](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amin007/webrtc-example?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is developed by Clément Mouret and Luc Tribolet during an internship at Atos Worldline.
 
 This prototype is only available for Chrome/Chromium with WebRTC support.
